@@ -1,8 +1,8 @@
-# Rekap
+# Developer Docs
 
 Condensed technical review, organized for quick refreshers.
 
-🌐 **[View on victormarcias.online/rekap-docs](https://victormarcias.online/rekap-docs)** — browsable version with nicer formatting, reading this same repo live.
+🌐 **[View on victormarcias.online/dev-docs](https://victormarcias.online/dev-docs)** — browsable version with nicer formatting, reading this same repo live.
 
 ## Index
 
